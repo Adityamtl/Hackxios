@@ -1,2 +1,2 @@
 # Hackxios
-Hello
+Geo-FinPulse: AI Life-Event & Timing Engine
